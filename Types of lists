@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>Asian</title>
+    </head>
+<body>
+
+  <!--This is an unordered list.-->
+
+
+  <h3>Grocery List </h3>
+  <ul style="list-style-type:disc">
+
+    <!-- These are some types of styles
+
+
+    <ul style="list-style-type:circle">
+      <ul style="list-style-type:square">
+        <ul style="list-style-type:none ">
+        -->
+        
+      <li>bread dough</li>
+      <li>cheese</li>
+      <li>tomato sauce</li>
+      <li>peppers</li>
+  </ul>
+    
+    
+
+<!--This is an ordered list-->
+
+  <h3>My to-do-list</h3>
+  <ol type="a">
+    
+    
+      <!--Other types tags
+    <ol type="i">
+    <ol type="I">
+    <ol type="A">
+    <ol type="1">
+    <ol type="2">
+    <ol type="1" start="100"
+    -->
+
+
+        <li>record a Youtube video</li>
+      <li>go to the gym</li>
+      <li>bake a pizza</li>
+    
+  </ol>
+
+  <!--Decription List-->
+  <h3>Web Dev Languages </h3>
+  <d1>
+    <dt>Python</dt>
+    <dd>: trash</dd>
+    <dt>JavaScript</dt>
+    <dd>Websites</dd>
+    <dt>HTML</dt>
+    <dd>adds structure to webpage </dd>
+  </d1>
+
+</body>
+
+<!--Example of nested list -->
+
+
+<h3>Grocery List </h3>
+<ul style="list-style-type:disc">
+    <li>bread dough</li>
+    <li>cheese
+      <ul style ="list-style-type:circle">
+        <li>American</li>
+      </ul>
+
+    </li>
+  
+    <li>tomato sauce</li>
+    <li>toppings
+        <ul>
+          <li>peppers</li>
+        </ul>
+
+    </li>
+        
+</ul>
+  
+</html>

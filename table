@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Asian</title>
+  </head>
+
+    <body>
+      <h2>Personal Finance</h2>
+
+      <table border="2px" bgcolor="black" height=150 width=100%>
+        <tr bgcolor="yellow" > <!--=tr=Table Row-->
+            <th height=10 width=75>Month:</th> <!--th=table heading-->
+            <th height=10 width=75>Janurary</th>
+            <th height=10 width=75>June</th>
+            <th height=10 width=75>October</th>
+            <th height=10 width=75>March</th>
+
+        </tr>
+        <tr bgcolor="pink" align=center>
+          <th>Income:</th>
+          <td>$1500</td> <!--td=table data -->
+          <td>$2000</td>
+          <td>$2500</td>
+          <td>$3000</td>
+
+
+        </tr>
+        <tr bgcolor="red" align=center>
+            <th>Expenses</th>
+            <td>-$500</td>
+            <td>-$1000</td>
+            <td>-$750</td>
+            <td>-$1500</td>
+
+          <tr bgcolor="green" align=center>
+            <th>Savings</th>
+            <td>$1000</td>
+            <td>$1000</td>
+            <td>$1750</td>
+            <td>$1500</td>
+
+          </tr>
+        </tr>
+      </table>
+
+    </body>
+
+
+
+</html>

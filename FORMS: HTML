@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<htmL>
+
+    <head>
+          <title>Asians</title>
+    </head>
+    <body>
+<!-- The DO_SOMETHING.PHP is a page(backend)-->
+          <form action="DO_SOMETHING.PHP">
+              <label for="first_name"><b>First name:</b></label>
+              <input type="text" id="first_name" name="first_name"
+              placeholder="Type your FIRST name here">
+          
+              <br><br>
+      
+              <label for="last_name"><b>Last name:</b></label>
+              <input type="text" id="last_name" name="last_name"
+              placeholder="Type your LAST name here">
+
+              <br><br>
+
+              <label for="title">Title:</label>
+              <input type="radio" value="Mr." id="Mr." name="title">
+              <label for"Mr.">Mr.</label>
+              <input type="radio" value="Mrs." id="Mrs." name="title">
+              <label for"Mrs.">Mrs.</label>
+              <input type="radio" value="Miss." id="Miss." name="title">
+              <label for"Miss.">Miss.</label>
+              <input type="radio" value="Dr." id="Dr" name="title">
+              <label for"Dr.">Dr.</label>
+              <br><br>
+
+              <label for="payment">Payment:</label>
+              <select id="payment">
+                    <option value="visa">Visa</option>
+                    <option value="mastercard">Mastercard</option>
+                    <option value="giftcard">Giftcard</option>
+                    <option value="check">Check</option>
+                
+              </select>
+
+            
+              <br><br>
+
+              <label for="birthday">Birthday:</label>
+
+              <br><br>
+
+              <label for="email">Email:</lable>
+              <input type="email" name="Email" 
+              placeholder="12345@gmail.com">
+              <br><br>
+
+              <label for="quantity">Quantity:</label>
+
+              <br><br>
+
+              <label for="phone">Phone #</label>
+
+              <br><br>
+
+              <label for="pass">Password:</label>
+
+              <br><br>
+
+              <label for="slider">Rate us:</label>
+
+              <br><br>
+
+              <label for="subscribe">Subscribe:</label>
+
+              <br><br>
+
+              <label for="myfile">Upload a file:</label>
+
+              <br><br>
+              
+              <input type="reset">
+
+              <br><br>
+
+              <input type="submit">
+          </form>
+    </body>
+
+
+
+</htmL>

@@ -26,7 +26,7 @@
               <label for"Mrs.">Mrs.</label>
               <input type="radio" value="Miss." id="Miss." name="title">
               <label for"Miss.">Miss.</label>
-              <input type="radio" value="Dr." id="Dr" name="title">
+              <input type="radio" `';n  v]=a/  "}.;ale="Dr." id="Dr" name="title">
               <label for"Dr.">Dr.</label>
               <br><br>
 
@@ -43,36 +43,46 @@
               <br><br>
 
               <label for="birthday">Birthday:</label>
+              <input type="date" id="birthday" name="birthday"
+              min="2000-01-01">
 
               <br><br>
 
-              <label for="email">Email:</lable>
+              <label for="email">Email:</label>
               <input type="email" name="Email" 
               placeholder="12345@gmail.com">
+                
               <br><br>
 
               <label for="quantity">Quantity:</label>
-
+              <input type="number" id="quantity" name="quantity" min="1" max="99"
+              value="1">
               <br><br>
 
               <label for="phone">Phone #</label>
-
+              <input type="tel" id="phone" name="phone">
               <br><br>
 
-              <label for="pass">Password:</label>
-
+              <label for="password">Password:</label>
+              <input type="password" id="passord" name"pass"
+              maxlength="12">
+              max 12 characters
+            
               <br><br>
 
               <label for="slider">Rate us:</label>
+              1<input type="range" step="25" value="100">5
 
               <br><br>
 
               <label for="subscribe">Subscribe:</label>
+              <input type="checkbox" id=""subscribe" name="subscribe">
 
               <br><br>
 
               <label for="myfile">Upload a file:</label>
-
+              <input type="file" id="myfile" name="myfile"
+              accept=".txt">
               <br><br>
               
               <input type="reset">
@@ -83,6 +93,4 @@
           </form>
     </body>
 
-
-
-</htmL>
+</html>

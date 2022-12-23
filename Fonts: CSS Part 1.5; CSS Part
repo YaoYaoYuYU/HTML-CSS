@@ -1,0 +1,21 @@
+body{
+    background-color:#000000;
+
+}
+p{
+    font-family:"Ink Free","MV Boli",sans-serif;
+    font-style: italic;
+    font-weight: bold;
+    font-size: 30px;
+    text-decoration:underline wavy blue;
+    text-decoration:normal,(this is for normal text);
+    color: #00aa00;
+    background-color:#111111;
+
+
+}
+
+h1{
+    font-family:'Aldrich',"Ink Free","MV Boli",sans-serif;
+    color:#00ff00;
+}

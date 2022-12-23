@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Yaoyu11</title>
+
+</head>
+<body>
+
+<h1>Span Tag</h1>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, 
+voluptas adipisci. Ducimus impedit iste consequuntur autem ipsa consectetur 
+tenetur. Labore sint adipisci <span style="color:red"> soluta velit nemo 
+voluptatem</span>, illum ducimus 
+minus distinctio.</p>
+
+<h1>Div Tag</h1>
+
+<p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Distinctio, 
+voluptas adipisci. <div style="color:red">Ducimus impedit iste consequuntur autem ipsa consectetur 
+tenetur. Labore sint adipisci soluta velit nemo voluptatem</div>, illum ducimus 
+minus distinctio.</p>
+
+</body>
+
+</html>

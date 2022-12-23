@@ -1,0 +1,7 @@
+h1{
+    background-color:#4955aa;
+    color:#000000;
+}
+p{
+    background-color:#4955aa;
+}

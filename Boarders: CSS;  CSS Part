@@ -1,0 +1,34 @@
+p{
+    padding:5px;
+    border-style:solid;
+    border-style:dashed;
+    border-width:7.5px 7.5px 7.5px 7.5px;
+    border-style:dotted;
+    border-style:ridge;
+    border-style:groove;
+    border-style:inset;
+    border-style:outset;
+     border-style:double;
+    border: color #0f0;
+    border-radius:15px;
+    border-color:#5d00ff
+    
+}
+
+h1{
+    color:white;
+    border-bottom-style:double;
+    border-top-style:double;
+    border-left-style:double;
+    border-right-style:double;
+    border-left-width:5px;
+    border-right-width:5px;
+    border-left-color:#5d00ff;
+    border-right-color:#5d00ff;
+    border-top-color:#5d00ff;
+    border-bottom-color:#5d00ff;
+}
+
+p{
+    color:white;
+}

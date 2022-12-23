@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>YaoYu</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="niubi.css">
+
+
+</head>
+
+<body style="background-color:#000000">
+    <h1>CSS Demo</h1>
+
+    <p class="top"id="Paragraph1">Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+    Nisi iste libero recusandae, commodi earum nostrum nemo 
+    ullam cupiditate cum veniam, perferendis omnis, quisquam 
+    doloremque aliquid odit? Corrupti esse suscipit placeat.</p>
+
+    <p id="Paragraph2">Lorem ipsum dolor, sit amet consectetur adipisicing elit. 
+     Nisi iste libero recusandae, commodi earum nostrum nemo 
+    ullam cupiditate cum veniam, perferendis omnis, quisquam 
+    doloremque aliquid odit? Corrupti esse suscipit placeat.</p>
+
+
+</body>
+</head>
+</html>

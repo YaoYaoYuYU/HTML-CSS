@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YaoYu</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="niubi.css">
+</head>
+
+<body>
+
+    <h1>Background Demo</h1>
+    <div id="mytext">
+
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+    Ipsum cupiditate laboriosam ipsam accusantium voluptatem velit. 
+    Similique odit porro distinctio ipsam expedita tempora qui minus laborum, 
+    ipsum nihil. Rerum, obcaecati voluptatibus.</p>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+    Ipsum cupiditate laboriosam ipsam accusantium voluptatem velit. 
+    Similique odit porro distinctio ipsam expedita tempora qui minus laborum, 
+    ipsum nihil. Rerum, obcaecati voluptatibus.</p>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+    Ipsum cupiditate laboriosam ipsam accusantium voluptatem velit. 
+    Similique odit porro distinctio ipsam expedita tempora qui minus laborum, 
+    ipsum nihil. Rerum, obcaecati voluptatibus.</p>
+    </div>
+
+</body>
+
+
+
+
+</html>

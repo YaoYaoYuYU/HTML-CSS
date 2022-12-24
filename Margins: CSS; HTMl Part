@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YaoYu</title>
+<meta charset="utf-8">
+<link rel="stylesheet" type="text/css" href="niubi.css">
+</head>
+
+<body>
+
+    <h1>Margin Demo</h1>
+
+    <p id="p1">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Mollitia nesciunt aspernatur voluptas cum nostrum non eum? 
+    Quos ab, totam, voluptas harum neque obcaecati ullam eaque 
+    asperiores assumenda voluptate, tempore perferendis.</p>
+
+    <p id="p2">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Mollitia nesciunt aspernatur voluptas cum nostrum non eum? 
+    Quos ab, totam, voluptas harum neque obcaecati ullam eaque 
+    asperiores assumenda voluptate, tempore perferendis.</p>
+
+    <p id="p3">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Mollitia nesciunt aspernatur voluptas cum nostrum non eum? 
+    Quos ab, totam, voluptas harum neque obcaecati ullam eaque 
+    asperiores assumenda voluptate, tempore perferendis.</p>
+
+    <p id="p4">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Mollitia nesciunt aspernatur voluptas cum nostrum non eum? 
+    Quos ab, totam, voluptas harum neque obcaecati ullam eaque 
+    asperiores assumenda voluptate, tempore perferendis.</p>
+
+    <p id="p5">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Mollitia nesciunt aspernatur voluptas cum nostrum non eum? 
+    Quos ab, totam, voluptas harum neque obcaecati ullam eaque 
+    asperiores assumenda voluptate, tempore perferendis.</p>
+
+    <p id="p6">Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+    Mollitia nesciunt aspernatur voluptas cum nostrum non eum? 
+    Quos ab, totam, voluptas harum neque obcaecati ullam eaque 
+    asperiores assumenda voluptate, tempore perferendis.</p>
+    
+
+
+</body>
+
+
+
+
+</html>

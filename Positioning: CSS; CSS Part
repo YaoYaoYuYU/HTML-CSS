@@ -1,0 +1,89 @@
+#vincent{
+    border:1px solid;
+    width:250px;
+}
+
+#p1{
+    text-align:left;
+}
+
+#p2{
+    text-align:center;
+}
+
+#p3{
+    text-align:right;
+}
+
+
+
+img{
+    float:left;
+    margin:5px;
+}
+
+
+#histext{
+    background:black;
+    border:1px solid;
+    border-width:2.5px;
+    border-legth:5px;
+    border-color:red;
+    width:300px;
+    box-shadow: 15px 15px 10px red, 15px 15px 2px rgb(141, 198, 8);
+    text-shadow: 3px 3px 3px rgb(141, 198, 8);
+    
+    color:white;
+}
+
+h1{
+    border: 1px solid;
+    background:yellow;
+    width:200px;
+
+    position:fixed;
+    /* fixed in place within viewport*/
+    /*right:50px;
+    bottom:50px;*/
+
+
+    position:relative;
+    /* relative to its normal position */
+    /*left:50px;
+    top:50px;*/
+
+
+    position:sticky;
+    /* sticks to viewport when scrolling*/
+    /*top:0;*/
+
+    position:static;
+    /*default position for elements*/
+}
+#box1{
+    position:relative;
+    background-color:lightgrey;
+    width:200px;
+    height:200px;
+    border:1px solid;
+
+    margin-top:auto;
+    margin-bottom:auto;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+#box2{
+    position:absolute;
+    /*relative to its positioned ancestor
+    otherwise relative to the viewport*/
+    background-color:grey;
+    width:100px;
+    height:100px;
+    border:1px solid;
+
+    top:50px;
+    left:50px;
+}
+
+

@@ -1,0 +1,144 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>YaoYu</title>
+    <meta charset="utf-8">
+    <link rel="stylesheet" type="text/css" href="niubi.css">
+    </head>
+
+    <body>
+        
+        <div id ="vincent">
+        <!--text-alignment-->
+        <p id="p1">LEFT</p>
+        <p id="p2">CENTER</p> 
+        <p id="p3">RIGHT</p>
+        </div>
+        <br><br>
+        <!--float property-->
+        <div id="mytext">
+
+
+        <img src="https://th.bing.com/th/id/OIP.99OSK6LG5W7q4f-ToZ2cKAHaHa?pid=ImgDet&rs=1" 
+        style="width:150px;height:150px;">
+
+
+        </div>
+
+
+        <div id="histext">
+
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        Facere asperiores perspiciatis doloribus inventore illum iusto esse? 
+        Maiores aperiam sequi nemo corporis voluptas commodi quis alias? 
+        A sed minima eos nostrum!</p>
+        
+        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+        Facere asperiores perspiciatis doloribus inventore illum iusto esse? 
+        Maiores aperiam sequi nemo corporis voluptas commodi quis alias? 
+        A sed minima eos nostrum!</p>
+
+
+        </div>
+        
+        <br><br>
+
+
+        <!--position property-->
+        <h1>FIXED</h1>
+        <div id="Hertext">
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. 
+        Ex ad ratione repudiandae possimus doloribus aliquam odio 
+        nostrum ea molestiae, omnis quae ducimus autem repellendus 
+        quia saepe! Excepturi laboriosam et amet.</p>                        
+        </div>
+
+        <div id="box1">This is relative
+
+        <div id="box2">This is absolute</div>
+         
+        </div>
+
+
+    </body>
+
+
+
+
+    </html>
